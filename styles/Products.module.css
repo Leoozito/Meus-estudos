@@ -1,0 +1,18 @@
+.imgleft {
+    width: 550px;
+    height: 398px;
+    vertical-align: top;
+    padding-top: 10px;
+    position: absolute;
+  }
+
+.imgright {
+    width: 2000px;
+    height: 398px;
+    vertical-align: bottom;
+    padding-top: 10px;
+    position: absolute;
+}
+
+
+

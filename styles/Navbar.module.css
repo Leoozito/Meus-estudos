@@ -1,0 +1,18 @@
+.Navbar {
+    background-color: rgb(0, 0, 0);
+    padding: 10px 110px;
+}
+
+.Navbar a {
+    color: rgb(244, 242, 242);
+    margin-right: 1em;
+    font-size: 25px;
+    text-decoration: none;
+    transition: 0.3s;
+    justify-content: center;
+    align-items: center;
+}
+
+.Navbar a:hover {
+    color: rgb(198, 86, 86)
+}
